@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/kardianos/service"
+	service "github.com/mtes-mct/go-service"
 )
 
 var logger service.Logger

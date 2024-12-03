@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kardianos/service"
+	service "github.com/mtes-mct/go-service"
 )
 
 const runAsServiceArg = "RunThisAsService"
